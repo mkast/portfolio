@@ -1,3 +1,3 @@
 # My Portfolio
 
-this is my software protfolio
+this is my software portfolio
